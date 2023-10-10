@@ -10,5 +10,8 @@
 # graphql tools / load-files
 `$ npm install @graphql-tools/load-files`
 
-# apolo server express
+# apollo server express
 `$ npm install apollo-server-express`
+
+# apollo server v4
+`$ npm install @apollo/server cors body-parser -f`
