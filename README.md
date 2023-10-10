@@ -9,3 +9,6 @@
 
 # graphql tools / load-files
 `$ npm install @graphql-tools/load-files`
+
+# apolo server express
+`$ npm install apollo-server-express`
